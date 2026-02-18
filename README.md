@@ -9,7 +9,7 @@ Kullanıcılar görev ekleyebilir; tamamlanan görevleri işaretleyebilir, sileb
 ---
 ## Özellikler
 - Yeni görev ekleme
-- Tarih ekleme (varsa)
+- Tarih ekleme 
 - Görevleri işaretleme 
 - Seçili görevi silme
 - Seçili görevi ekleme
